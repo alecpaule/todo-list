@@ -1,2 +1,2 @@
 # todo-list
-Created with CodeSandbox
+Basic To Do List
